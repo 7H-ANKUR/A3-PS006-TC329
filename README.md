@@ -8,8 +8,6 @@ This repository contains the code, resources, and project implementations develo
 
 Watch the AIORI-3 Hackathon video on YouTube:
 
-[![AIORI-3 Hackathon Video](https://img.youtube.com/vi/NX4evW86odk/0.jpg)](https://youtu.be/NX4evW86odk)
-
 🔗 **[Click here to watch the video on YouTube](https://youtu.be/NX4evW86odk)**
 
 ## 📂 Repository Contents
