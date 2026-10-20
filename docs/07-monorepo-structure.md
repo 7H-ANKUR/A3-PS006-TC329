@@ -4,7 +4,13 @@ The repo is the Next.js project itself (single package for the app) plus one ind
 
 ```
 interlock-control-room/
-├── docs/                                # the 12 spec documents (this set)
+├── docs/                                # system architecture, PRD, design and engineering specs
+│   ├── Architecture.md                  # architectural drivers, trust boundaries, components
+│   ├── MVP Tech Doc.md                  # MVP technical specification and implementation plan
+│   ├── PRD.md                           # product requirements document
+│   ├── System Design.md                 # system design, protocols, and data models
+│   ├── AIORI3_PS006_Algo-Ancesstors.pdf # team presentation & submission document
+│   ├── Proposed-structure-hackathon.pdf # hackathon template guidance
 │   ├── 01-product-requirements.md
 │   ├── 02-user-stories-and-acceptance-criteria.md
 │   ├── 03-information-architecture.md
@@ -24,7 +30,6 @@ interlock-control-room/
 │       ├── package.json                 # deps: socket.io; dev: bun --hot index.ts
 │       ├── index.ts                      # socket.io (path "/") + POST /publish (token)
 │       └── README.md
-├── examples/websocket/                  # scaffold reference (kept, unused)
 ├── src/
 │   ├── app/
 │   │   ├── page.tsx                     # the only route: INTERLOCK console

@@ -237,3 +237,21 @@ The INTERLOCK Control Room interface adheres strictly to the industrial signal-b
 - **Ink / Typography**: Near-black `#191C1A`
 - **Typefaces**: Overpass (UI & display) and Martian Mono (code, metrics, evidence)
 - **Status Accents**: Muted signal amber, brick red, and railway green
+
+---
+
+## Project Documentation Index
+
+All core architectural specifications and engineering guides are cataloged in [`docs/`](docs/):
+
+- **System Architecture & Design**:
+  - [`docs/Architecture.md`](docs/Architecture.md) — Architectural drivers, trust boundaries, fail-closed topology
+  - [`docs/System Design.md`](docs/System%20Design.md) — Module designs, protocols, crypto schemas, TLS/PKI constraints
+  - [`docs/MVP Tech Doc.md`](docs/MVP%20Tech%20Doc.md) — Technical implementation blueprint, reference code, matrix runs
+  - [`docs/PRD.md`](docs/PRD.md) — Product requirements document (FR-01 to FR-53, NFRs)
+- **Hackathon Submissions & Templates**:
+  - [`docs/AIORI3_PS006_Algo-Ancesstors.pdf`](docs/AIORI3_PS006_Algo-Ancesstors.pdf) — Team presentation deck & submission
+  - [`docs/Proposed-structure-hackathon.pdf`](docs/Proposed-structure-hackathon.pdf) — Official AIORI hackathon structure template
+- **Modular Engineering Specifications**:
+  - [`docs/01-product-requirements.md`](docs/01-product-requirements.md) through [`docs/12-testing-strategy.md`](docs/12-testing-strategy.md)
+
