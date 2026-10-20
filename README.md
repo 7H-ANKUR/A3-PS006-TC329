@@ -1,3 +1,12 @@
+# AIORI-3-HACKATHON-PROJECTS — PS-006: INTERLOCK
+
+Welcome to the **AIORI-3 Hackathon Projects** repository! 🚀
+
+## 🎥 Hackathon Video
+🔗 **[Click here to watch the AIORI-3 Hackathon video on YouTube](https://youtu.be/NX4evW86odk)**
+
+---
+
 # INTERLOCK — PS-006 Control Room
 
 **AIORI Hackathon 3 | Team: Algo-Ancestors | Identifier: A3-PS006-TC329**
